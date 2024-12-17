@@ -19,7 +19,7 @@ pip install -U xformers --index-url https://download.pytorch.org/whl/cu118
 We have tested our model on CUDA11.8. You can download correct version of `torch`, `torchvision` from [this website](https://pytorch.org/get-started/previous-versions/).
 
 ### 🔥 Checkpoint download
-You can download the finetuned VAE and controlnet checkpoints from [Google Drive]() or [Baidu Netdisk]() and replace the empty files in `ckpt` folder. 
+You can download the finetuned VAE and controlnet checkpoints from [Google Drive](https://drive.google.com/drive/folders/1GZYRTN7_1i0TzQNu_neKE0CysagkQqLz?usp=sharing) or [Baidu Netdisk](https://pan.baidu.com/s/1zRxikfUTxrqu2mZccBccGQ)(Code: ddpm) and replace the empty files in `ckpt` folder. 
 
 You have to prepare SD1.5 by your own. For more convenience, you can follow [this website](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5).
 
@@ -102,6 +102,7 @@ If you have some good ideas or implementations, feel free to create a PR!
 - [x] Release code of CIA
 - [ ] Upload arXiv version paper
 - [ ] Provide online demo
+- [ ] Update additional extensions
 -------
 
 If you have any questions, you can submit an Issue or contact Liyifan10081212@stu.pku.edu.cn.
