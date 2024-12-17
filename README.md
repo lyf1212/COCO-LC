@@ -54,7 +54,7 @@ Then, run `pip install -e .` in your diffusers folder. This will merge our COCO-
 We are going to create a new pipeline in diffusers of COCO-LC for more convenient inference. It will come soon~
 
 ### Semantic edge and standard semantic feature Preparation
-Leverage SAM as a zero-shot edge detector: `prepare_edge.py`.
+Leverage [SAM](https://github.com/facebookresearch/segment-anything) as a zero-shot edge detector: `prepare_edge.py`.
 
 Leverage [Mask2Former](https://github.com/facebookresearch/Mask2Former) as segmentation backbone: `prepare_seg_embedding.py`.
 You can firstly setup SAM and Mask2Former, then change directory in our python scripts.
