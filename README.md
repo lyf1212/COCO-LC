@@ -96,6 +96,12 @@ There are some tricks using in the code. I have to clarify them.
 
 If you have some good ideas or implementations, feel free to create a PR!
 
+#### TODO
+- [x] Release code of Main model
+- [x] Release code of COCO-Decoder
+- [x] Release code of CIA
+- [ ] Upload arXiv version paper
+- [ ] Provide online demo
 -------
 
 If you have any questions, you can submit an Issue or contact Liyifan10081212@stu.pku.edu.cn.
