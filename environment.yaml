@@ -1,0 +1,19 @@
+name: cocolc
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.8.5
+  - pip=20.3
+  - cudatoolkit=11.8
+  - pytorch=2.1.1+cu118
+  - torchvision=0.16.1
+  - numpy=1.23.1
+  -pip:
+    - -e git+https://github.com/openai/CLIP.git
+    - accelerate==0.27.2
+    - transformers=4.37.2
+    - xformers=0.0.23+cu118
+    - opencv-python
+    - matplotlib
+    - tqdm
