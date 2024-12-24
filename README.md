@@ -3,6 +3,10 @@ This is the official PyTorch code for our paper COCO-LC: Colorfulness Controllab
 [![arXiv](https://img.shields.io/badge/arxiv-paper-179bd3)]()
 [![homepage](https://img.shields.io/badge/homepage-GitHub-179bd3)](https://github.com/lyf1212/COCO-LC/)
 
+## Updates
+🎅 Sorry for my carelessness, I made a mistake on the sharing through Google Drive. Now I correct it, and anyone can **click** the link below to achieve the checkpoint.
+For feel to try our COOC-LC!
+
 ## Setup
 ### 🖥️ Environment Preparation
 You can choose (1) create a new conda environment:
