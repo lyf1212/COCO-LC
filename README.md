@@ -6,7 +6,7 @@ This is the official PyTorch code for our paper COCO-LC: Colorfulness Controllab
 [Homepage](https://github.com/lyf1212/COCO-LC/)
 
 ## Updates
-👓 We fixed some typos in our original paper and provide an updated version at [here](https://github.com/lyf1212/COCO-LC/blob/main/COCO-LC_fix_typo.pdf).
+👓 We fix some typos in our original paper and provide an updated version at [here](https://github.com/lyf1212/COCO-LC/blob/main/COCO-LC_fix_typo.pdf).
 
 ## Setup
 ### 🖥️ Environment Preparation
