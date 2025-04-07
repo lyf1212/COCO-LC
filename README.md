@@ -1,11 +1,12 @@
 # COCO-LC: Colorfulness Controllable Language-based Colorization (ACM MM-24)
 This is the official PyTorch code for our paper COCO-LC: Colorfulness Controllable Language-based Colorization.
-[![arXiv](https://img.shields.io/badge/arxiv-paper-179bd3)]()
-[![homepage](https://img.shields.io/badge/homepage-GitHub-179bd3)](https://github.com/lyf1212/COCO-LC/)
+
+[Paper](https://github.com/lyf1212/COCO-LC/blob/main/COCO-LC_fix_typo.pdf)
+
+[Homepage](https://github.com/lyf1212/COCO-LC/)
 
 ## Updates
-🎅 Sorry for my carelessness, I made a mistake on the sharing through Google Drive. Now I correct it, and anyone can **click** the link below to achieve the checkpoint.
-For feel to try our COOC-LC!
+👓 We fixed some typos in our original paper and provide an updated version at [here](https://github.com/lyf1212/COCO-LC/blob/main/COCO-LC_fix_typo.pdf).
 
 ## Setup
 ### 🖥️ Environment Preparation
