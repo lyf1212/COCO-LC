@@ -3,11 +3,15 @@ This is the official PyTorch code for our paper COCO-LC: Colorfulness Controllab
 
 [Paper](https://github.com/lyf1212/COCO-LC/blob/main/COCO-LC_fix_typo.pdf)
 
+[Paper of Improved Version](https://github.com/lyf1212/COCO-LC/blob/main/COCO-LC_improved.pdf)
+
 [Homepage](https://github.com/lyf1212/COCO-LC/)
 
 ## Updates
 👓 We fix some typos in our original paper and provide an updated version at [here](https://github.com/lyf1212/COCO-LC/blob/main/COCO-LC_fix_typo.pdf).
 
+😎 We further propose some insightful **improvements about Coarse Colorization** (in Sec.3.3.1 and Fig.3), and complete corresponding experiments. More details can be found at [here](https://github.com/lyf1212/COCO-LC/blob/main/COCO-LC_improved.pdf).
+ 
 ## Setup
 ### 🖥️ Environment Preparation
 You can choose (1) create a new conda environment:
