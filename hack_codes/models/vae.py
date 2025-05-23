@@ -29,7 +29,17 @@ from ..unets.unet_2d_blocks import (
     get_up_block,
 )
 
+@dataclass
+class EncoderOutput(BaseOutput):
+    r"""
+    Output of encoding method.
+    Args:
+        latent (`torch.Tensor` of shape `(batch_size, num_channels, latent_height, latent_width)`):
+            The encoded latent.
+    """
 
+    latent: torch.Tensor
+    
 @dataclass
 class DecoderOutput(BaseOutput):
     """
